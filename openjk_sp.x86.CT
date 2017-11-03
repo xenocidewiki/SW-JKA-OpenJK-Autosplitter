@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="24">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>19</ID>
+      <Description>"MapNumber (most likely wrong compared to normal JKA, look at the memory regions and compare hex)"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>openjk_sp.x86.exe+AA4270</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>20</ID>
+      <Description>"MapNumber"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>openjk_sp.x86.exe+AA42F0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>21</ID>
+      <Description>"finalsplit reliable"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>openjk_sp.x86.exe+B966B4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>22</ID>
+      <Description>"finalsplit unreliable?"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>openjk_sp.x86.exe+B9C1B4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>23</ID>
+      <Description>"finalsplit unreliable? 2"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>openjk_sp.x86.exe+B9C48C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>24</ID>
+      <Description>"isloaded"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"rdsp-vanilla_x86.dll"+FFD30</Address>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
