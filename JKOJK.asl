@@ -7,9 +7,9 @@ state("openjk_sp.x86")
  	/*
  		General docs:
 
- 		Is Loaded: 		OpenJK: "rdsp-vaniall_x86.dll" + 0xFFD30 									                  ---- JKA: 0x897C9C
+ 		Is Loaded: 	OpenJK: "rdsp-vaniall_x86.dll" + 0xFFD3 					---- JKA: 0x897C9C
  		Final Split: 	OpenJK: 0xB966B4 (most likely) || probs not 0xB9C1B4 || probs not 0xB9C48C	---- JKA: JKA: 835AB4 
- 		Map Number: 	OpenJK: 0xAA42F0 (most likely) || 0xAA4270 									                ---- JKA: 0x480CD0
+ 		Map Number: 	OpenJK: 0xAA42F0 (most likely) || 0xAA4270 					---- JKA: 0x480CD0
 
  		Original work done by: Zefie & Dread
  	*/
