@@ -10,6 +10,6 @@ __THIS HAS NOT BEEN PROPERLY TESTED, SO CHANGES MAY APPEAR__
 1. Move JKOJK.asl to your Livesplit\Components folder.
 2. Open Livesplit, right click, then -> Edit Layout -> Add Control -> Scriptable Auto Splitter.
 3. Double click the "Scriptable Auto Splitter" -> Click Browse and select JKOJK.asl form your Livesplit\Components folder.
-4. Select the options (checkboxes) you want (usually Split & Reset should be enabled, Start is should be enabled based on preference).
+4. Select the options (checkboxes) you want (usually Split & Reset should be enabled, Start should be enabled based on preference).
 5. Select the advanced options (checkboxes) you want, IL Timer and Start Time (optional).
 6. Go back to the main Livesplit screen, right click, then -> Edit Splits -> Deactivate Autosplitter/Load Removal (usually deactivated by default).
